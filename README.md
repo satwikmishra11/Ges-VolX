@@ -1,2 +1,2 @@
-# Ges-VolX
-A hand gesture recognised  to increase and decrease volume
+# GesVol
+Constrol Volume using Gestures
